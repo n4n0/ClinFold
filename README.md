@@ -30,7 +30,7 @@ The tool automatically maps residues between UniProt sequences and PDB structure
 
 ## Screenshots
 
-*`![Main View](inst/img/screenshot.png)`*
+![ClinFold Main Interface](img/screenshot.png)
 
 ---
 
