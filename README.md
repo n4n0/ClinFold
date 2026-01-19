@@ -17,7 +17,7 @@ The tool automatically maps residues between UniProt sequences and PDB structure
 
 ### Key Features
 
-* ** automated Data Retrieval**: Fetches real-time data from UniProt, ClinVar, PDBe/SIFTS, and AlphaFold DB.
+* **Automated Data Retrieval**: Fetches real-time data from UniProt, ClinVar, PDBe/SIFTS, and AlphaFold DB.
 * **3D Visualization**: Interactive viewing using `NGLVieweR` with support for spinning, rocking, and domain coloring.
 * **Variant Mapping**: Highlights clinical variants directly on the 3D structure (sticks with element coloring).
 * **Structure Profiling**:
