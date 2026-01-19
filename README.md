@@ -97,6 +97,6 @@ If you use this tool or the Ramachandran plot functionality, please consider the
 
 Academic Use Only: This tool is designed for research and educational purposes. Structural predictions and annotations are for reference only.
 
-Author: [Fernando de la Puente Alonso de la Torre]
+Author: Fernando de la Puente Alonso de la Torre
 
 Email: UO257655@uniovi.es
