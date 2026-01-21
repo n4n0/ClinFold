@@ -16,6 +16,10 @@
 
 The tool automatically maps residues between UniProt sequences and PDB structures, handling complex issues such as coverage gaps and engineered mutations.
 
+## Published version
+
+This app is published via shinyapps.io and can be used via https://n4n0.shinyapps.io/clinfold/.
+
 ### Key Features
 
 * **Automated Data Retrieval**: Fetches real-time data from UniProt, ClinVar, PDBe/SIFTS, and AlphaFold DB.
