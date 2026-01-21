@@ -4,6 +4,7 @@
 [![Shiny](https://img.shields.io/badge/shiny-1.7-success.svg)](https://shiny.rstudio.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)]()
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18325827.svg)](https://doi.org/10.5281/zenodo.18325827)
 
 > **A tool for visualizing the structural impact of genetic variants on protein structure, integrating UniProt, ClinVar, PDBe, and AlphaFold.**
 
@@ -99,4 +100,4 @@ Academic Use Only: This tool is designed for research and educational purposes. 
 
 Author: Fernando de la Puente Alonso de la Torre
 
-Email: UO257655@uniovi.es
+Email: UO257655@uniovi.es | puentealonsode@gmail.com
